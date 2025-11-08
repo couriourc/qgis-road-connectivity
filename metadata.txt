@@ -1,0 +1,15 @@
+[general]
+name=Road Network Analyzer
+qgisMinimumVersion=3.0
+description=基于并查集的道路网络连通性分析工具
+version=1.0
+author=CouriourC
+email=couriourc@gmail.com
+
+[category]
+category=Vector
+
+about=点击道路要素，高亮显示所有连通的道路网络
+
+tracker=http://bugs
+repository=http://repo
